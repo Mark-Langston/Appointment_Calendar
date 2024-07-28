@@ -9,6 +9,11 @@ AppointmentCalendar is a JavaFX-based desktop application for managing appointme
 - **View Appointments**: Display all saved appointments in a list.
 - **Persistent Storage**: Appointments are saved to and loaded from a text file.
 
+## Video Overview
+For a detailed overview, including CRC cards, UML class diagrams, and a demo of the application, please watch the following video:
+
+[![Video Overview](https://img.youtube.com/vi/_j2mXQLHapc/0.jpg)](https://www.youtube.com/watch?v=_j2mXQLHapc)
+
 ## Installation
 1. **Clone the repository:**
     ```sh
