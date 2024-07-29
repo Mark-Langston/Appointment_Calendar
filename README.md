@@ -21,7 +21,7 @@ For a detailed overview, including CRC cards, UML class diagrams, and a demo of 
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd AppointmentCalendar
+    cd Appointment_Calendar
     ```
 3. **Ensure you have Java and JavaFX installed.**
    - Java: [Install Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
@@ -30,11 +30,11 @@ For a detailed overview, including CRC cards, UML class diagrams, and a demo of 
 ## Running the Application
 1. **Compile the project:**
     ```sh
-    javac -d out --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls src/com/example/appointment_calendar/AppointmentCalendar.java
+    javac -d out --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls src/com/example/appointment_calendar/Appointment_Calendar.java
     ```
 2. **Run the application:**
     ```sh
-    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp out com.example.appointment_calendar.AppointmentCalendar
+    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp out com.example.appointment_calendar.Appointment_Calendar
     ```
 
 ## Usage
